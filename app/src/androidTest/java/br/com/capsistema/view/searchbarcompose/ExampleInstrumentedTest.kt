@@ -1,4 +1,4 @@
-package com.n3t0l0b0.blogspot.mpc.view.searchbarcompose
+package br.com.capsistema.view.searchbarcompose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

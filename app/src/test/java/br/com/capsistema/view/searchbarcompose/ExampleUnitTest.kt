@@ -1,4 +1,4 @@
-package com.n3t0l0b0.blogspot.mpc.view.searchbarcompose
+package br.com.capsistema.view.searchbarcompose
 
 import org.junit.Test
 
